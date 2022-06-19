@@ -10,8 +10,6 @@ tags:
 
 This example sets up a [Hasura](https://hasura.io/opensource/) instance with a [PostgreSQL](https://www.postgresql.org/) database.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/hasura)
-
 ## ✨ Features
 
 - Postgres
